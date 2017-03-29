@@ -34,7 +34,7 @@ Choose this goal if you've wondered how objects work in JavaScript and are looki
 
 ## Specifications
 
-- [ ] Artifact produced is a fork of the [core-oojs][core-oojs] repo.
+- [x] Artifact produced is a fork of the [core-oojs][core-oojs] repo.
 - [ ] All readings and videos in the `README` are completed and checked off.
 - [ ] All exercises and lessons in the `README` are completed and checked off.
 - [ ] Final project is complete.
